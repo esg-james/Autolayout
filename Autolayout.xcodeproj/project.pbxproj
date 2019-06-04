@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		55B3E8CE22A715EB008D2859 /* AutolayoutTests.xctest in Resources */ = {isa = PBXBuildFile; fileRef = 60D60770197C42E700A4DE1D /* AutolayoutTests.xctest */; };
 		60D60753197C42E600A4DE1D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60D60752197C42E600A4DE1D /* Foundation.framework */; };
 		60D60755197C42E600A4DE1D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60D60754197C42E600A4DE1D /* CoreGraphics.framework */; };
 		60D60757197C42E600A4DE1D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60D60756197C42E600A4DE1D /* UIKit.framework */; };
@@ -186,6 +187,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -206,6 +208,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				60D6076B197C42E600A4DE1D /* Images.xcassets in Resources */,
+				55B3E8CE22A715EB008D2859 /* AutolayoutTests.xctest in Resources */,
 				60D6075D197C42E600A4DE1D /* InfoPlist.strings in Resources */,
 				60D60766197C42E600A4DE1D /* Main.storyboard in Resources */,
 			);
